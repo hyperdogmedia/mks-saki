@@ -5,7 +5,7 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
 <meta name="DC.title" lang="en" content="Privacy Policy">
-<meta name="description" content="Karate is a traditional martial art with an exciting twist that has gained a lot of attention. It has evolved from fighting in rusty containers to competing in the biggest arenas.">
+<meta name="description" content="Karate is a form of martial arts that is both traditional and a sport-based, has been growing in popularity. It has shifted from fighting in rusty cages to competing in the most prestigious arenas.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.d1f0cd2eada706ae5694aef19c245bae1{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+.t53dc48073b14901de4006cbb2e685be3 a{
+font-size:16px;
 }
-.y73d5939e36ee37815811348b130f8dff:hover{
-box-shadow: 0 49.9px 50.5px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-a{
-text-decoration: none!important;
-}
-.wddc9e853909baa49e9408c11d065e157 p,.wddc9e853909baa49e9408c11d065e157 span,.wddc9e853909baa49e9408c11d065e157 label{
+.t53dc48073b14901de4006cbb2e685be3 p,.t53dc48073b14901de4006cbb2e685be3 span,.t53dc48073b14901de4006cbb2e685be3 label{
 font-size:16px!important;
 }
 .nav-item{
-padding-left:8.2px;
-padding-right:8.4px;
-padding-top:4.7px;
-padding-bottom:5px;
+padding-left:7.8px;
+padding-right:8.3px;
+padding-top:5.4px;
+padding-bottom:4.7px;
 }
-footer *{
-font-size:16px !important;
-}
-footer{
-background:#0c0c0c;
-color:#ffffff;
-}
-html{
-scroll-behavior: smooth;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
 }
 a:hover{
 color:#ffffff;background:#ffc658!important;
 }
 .btn-md{
-padding: 15.5px 30px;
+padding: 14.5px 29.5px;
 border-radius: 0;
 }
-.a82d76c49d1828ce6409e39e406429755 p,.a82d76c49d1828ce6409e39e406429755 a,.a82d76c49d1828ce6409e39e406429755 span,.a82d76c49d1828ce6409e39e406429755 label{
+.fc2828ddb896c460039cf4cc37cc160a5 p,.fc2828ddb896c460039cf4cc37cc160a5 a,.fc2828ddb896c460039cf4cc37cc160a5 span,.fc2828ddb896c460039cf4cc37cc160a5 label{
 font-size:16px!important;
-}
-.a82d76c49d1828ce6409e39e406429755 a,.wddc9e853909baa49e9408c11d065e157 a{
-color:#101010!important;
-text-decoration: underline !important;
-}
-.wddc9e853909baa49e9408c11d065e157 a{
-font-size:16px;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
+footer{
+background:#141414;
+color:#ffffff;
+}
+html{
+scroll-behavior: smooth;
+}
 ul{
 list-style: circle;
 }
-.navbar a{
-font-size: 18.1px!important;
-font-weight: bold;
+.y72cebee3857cd20c8e1277556e714856:hover{
+box-shadow: 0 50px 50.1px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.w117971238b1acbc601c6d98d063b5353{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
 .nav-link{
 color: #000000;
 
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+a{
+text-decoration: none!important;
+}
+.fc2828ddb896c460039cf4cc37cc160a5 a,.t53dc48073b14901de4006cbb2e685be3 a{
+color:#141414!important;
+text-decoration: underline !important;
+}
+footer *{
+font-size:16px !important;
 }
 </style>
 <script type="application/ld+json"> {
@@ -166,16 +166,16 @@ color: #000000;
 <nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/mks-tokaido-karate-gi.jpg" src="img/mks-tokaido-karate-gi.jpg"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="d-flex ml-auto navbar-nav align-items-center"><li class="nav-item ">
-<a class="xb6989435e4fde086a67f61cd51e882bb nav-link" href="index.html"  >The Future of Karate - Trends and Innovations</a>
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="ml-auto align-items-center d-flex navbar-nav"><li class=" nav-item">
+<a class="nav-link ye869313608d48ec7c19cae58d354d90a" href="index.html"  >The Future of Karate - Trends and Innovations</a>
 </li><li class="nav-item ">
-<a class="xb6989435e4fde086a67f61cd51e882bb nav-link" href="the-future-of-tae-kwon-do-aka-korean-karate.html"  >The Future of Tae Kwon-Do, aka Korean Karate</a>
+<a class="nav-link ye869313608d48ec7c19cae58d354d90a" href="the-future-of-tae-kwon-do-aka-korean-karate.html"  >The Future of Tae Kwon-Do, aka Korean Karate</a>
 </li><li class=" nav-item">
-<a class="nav-link xb6989435e4fde086a67f61cd51e882bb" href="martial-arts-in-a-rapidly-changing-world.html"  >Martial Arts in a rapidly changing world</a>
-</li><li class="nav-item"><a class="xb6989435e4fde086a67f61cd51e882bb nav-link" rel=nofollow href="about-us.html">About Us</a>
+<a class="nav-link ye869313608d48ec7c19cae58d354d90a" href="martial-arts-in-a-rapidly-changing-world.html"  >Martial Arts in a rapidly changing world</a>
+</li><li class="nav-item"><a class="nav-link ye869313608d48ec7c19cae58d354d90a" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="d1f0cd2eada706ae5694aef19c245bae1 btn-md btn" href="https://sakidokwan.org/" rel="nofollow">Contact Us</a>
+<a class="w117971238b1acbc601c6d98d063b5353 btn btn-md" href="https://sakidokwan.org/" rel="nofollow">Contact Us</a>
 </li>
 </ul>
 </div>
@@ -243,7 +243,7 @@ info@sakidokwan.org</br>
 </p>
 </section>
 <footer>
-<div class="py-4 pt-5 container" >
+<div class="pt-5 py-4 container" >
 <div class="row"><div class="col-lg-3">
 <p>Saki Do Kwan Tae Kwon-Do Sheridan, CO</p>
 <p>Email : info@sakidokwan.org</p>
@@ -251,11 +251,11 @@ info@sakidokwan.org</br>
 <p>State : CO</p>
 <p>Zip : 80236</p>
 <p>Address : 3325 W Oxford Ave</p>
-<p><a class="xb6989435e4fde086a67f61cd51e882bb" href="https://register.ssprd.org/CO/south-suburban-parks-rec/catalog/index/e38461b3576b930f218902266477105d?filter=c2VhcmNoPSZsb2NhdGlvbiU1QjE5NDQ2JTVEPTEmY2F0ZWdvcnklNUIxODI2MSU1RD0x" rel="nofollow"> Google Business Profile</a></p>
-<p>Company Website : <a class="xb6989435e4fde086a67f61cd51e882bb" href="https://sakidokwan.org/2024/08/05/sheridan-recreation-center-tae-kwon-do/" rel="nofollow">https://sakidokwan.org/2024/08/05/sheridan-recreation-center-tae-kwon-do/</a></p>
-</div><div class="col-lg-3"><p><a class="xb6989435e4fde086a67f61cd51e882bb" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="xb6989435e4fde086a67f61cd51e882bb" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="xb6989435e4fde086a67f61cd51e882bb" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="ye869313608d48ec7c19cae58d354d90a" href="https://register.ssprd.org/CO/south-suburban-parks-rec/catalog/index/e38461b3576b930f218902266477105d?filter=c2VhcmNoPSZsb2NhdGlvbiU1QjE5NDQ2JTVEPTEmY2F0ZWdvcnklNUIxODI2MSU1RD0x" rel="nofollow"> Google Business Profile</a></p>
+<p>Company Website : <a class="ye869313608d48ec7c19cae58d354d90a" href="https://sakidokwan.org/2024/08/05/sheridan-recreation-center-tae-kwon-do/" rel="nofollow">https://sakidokwan.org/2024/08/05/sheridan-recreation-center-tae-kwon-do/</a></p>
+</div><div class="col-lg-3"><p><a class="ye869313608d48ec7c19cae58d354d90a" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="ye869313608d48ec7c19cae58d354d90a" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="ye869313608d48ec7c19cae58d354d90a" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
